@@ -28,36 +28,48 @@ Durante mis estudios y en proyectos personales he trabajado con Java, Python, HT
 <p>
 Como desarrollador comprometido con el aprendizaje continuo, mi trayectoria académica refleja una formación técnica sólida y diversa. 
 He obtenido un Grado Superior en Desarrollo de Aplicaciones Web, un Grado Superior en Mantenimiento Electrónico y Robótica, 
-así como un Grado Medio en Telecomunicaciones.
+así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
 </p><br>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
+      <!-- Grado Superior en Desarrollo de Aplicaciones Web -->
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/HTML5_logo_and_wordmark.svg" height="40" alt="DAW"/>
+        <a href="https://www.ies-tiernogalvan.es/" target="_blank">
+          <img src="https://www.ies-tiernogalvan.es/templates/ja_simpli/images/logo.png" width="90" alt="IES Enrique Tierno Galván"/>
+        </a><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="España"/><br>
+        <strong>IES Enrique Tierno Galván</strong><br><strong>Grado Superior</strong> en Desarrollo de Aplicaciones Web<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
+
+      <!-- Grado Superior en Mantenimiento Electrónico y Robótica -->
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Arduino_circuit_logo.png" height="40" alt="Robótica"/>
+        <a href="https://www.educa2.madrid.org/web/centro.ies.julioverne.leganes" target="_blank">
+          <img src="https://www.educa2.madrid.org/o/ies.julioverne.leganes/logo" width="90" alt="IES Julio Verne"/>
+        </a><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="España"/><br>
+        <strong>IES Julio Verne</strong><br><strong>Grado Superior</strong> en Mantenimiento Electrónico y Robótica<br>
+        <img src="https://progress-bar.dev/100/" width="100" alt="progress-bar"/>
       </td>
+
+      <!-- Grado Medio en Telecomunicaciones -->
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/0/" width="105" alt="progress-bar"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecom-icon.svg" height="40" alt="Telecom"/>
+        <a href="https://www.educa2.madrid.org/web/centro.ies.julioverne.leganes" target="_blank">
+          <img src="https://www.educa2.madrid.org/o/ies.julioverne.leganes/logo" width="90" alt="IES Julio Verne"/>
+        </a><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="España"/><br>
+        <strong>IES Julio Verne</strong><br><strong>Grado Medio</strong> en Telecomunicaciones<br>
+        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 <h2>🔥| My contribution streak</h2>
 <p align="center">

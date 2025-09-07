@@ -54,6 +54,9 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
     </tr>
   </table>
 </div>
+<img src="https://img.shields.io/badge/DAW-100%25-brightgreen" alt="progress"/>
+<img src="https://img.shields.io/badge/Robótica-100%25-blue" alt="progress"/>
+<img src="https://img.shields.io/badge/Telecom-100%25-orange" alt="progress"/>
 
 
 <h2>🔥| My contribution streak</h2>

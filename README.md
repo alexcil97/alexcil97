@@ -55,9 +55,9 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
   </table>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexcil97)](https://git.io/streak-stats)
 <h2>🔥| My contribution streak</h2>
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexcil97)](https://git.io/streak-stats)
   <a href="https://github.com/alexcil97/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexcil97#version3"/>
   </a>

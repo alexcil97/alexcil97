@@ -35,7 +35,7 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://site.educa.madrid.org/ies.tiernogalvan.madrid/local–image-of-logo-or-placeholder" height="80" alt="IES Enrique Tierno Galván"/><br>
+        <img src="images/icono-profesor-tierno-sombra.png" height="80" alt="IES Enrique Tierno Galván"/><br>
         <a href="https://site.educa.madrid.org/ies.tiernogalvan.madrid/" target="_blank">
           <strong>IES Enrique Tierno Galván</strong>
         </a><br>

@@ -43,7 +43,7 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-        <img src="https://site.educa.madrid.org/ies.julioverne.leganes/local–image-of-logo-or-placeholder" height="80" alt="IES Julio Verne"/><br>
+        <img src="images/aulavirtual-1-1024x596.png" height="80" alt="IES Julio Verne"/><br>
         <a href="https://site.educa.madrid.org/ies.julioverne.leganes/" target="_blank">
           <strong>IES Julio Verne</strong>
         </a><br>

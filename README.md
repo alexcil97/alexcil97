@@ -5,8 +5,8 @@
 <a style="text-decoration: none" target="_blank" href="https://x.com/AlexCjdev" >
 <img width="60"src="https://img.shields.io/twitter/follow/AlexCjdev?label=Follow&style=social">
 </a>
-<a style="text-decoration: none" target="_blank" href="www.linkedin.com/in/alex-cil-jim/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+<a href="www.linkedin.com/in/alex-cil-jim/" target="_blank">
+  <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
 

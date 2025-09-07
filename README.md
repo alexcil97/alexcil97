@@ -59,7 +59,7 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexcil97#version3"/>
   </a>
 </p>
 

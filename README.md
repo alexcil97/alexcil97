@@ -103,4 +103,4 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
 ------
 **Credits :** [alexcil97](https://github.com/alexcil97)
 
-**Last Edited on:** 06/04/2024
+**Last Edited on:** 07/09/2025

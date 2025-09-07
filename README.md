@@ -31,26 +31,53 @@ He obtenido un Grado Superior en Desarrollo de Aplicaciones Web, un Grado Superi
 así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
 </p><br>
 
+<style>
+  .progress-container {
+    width: 120px;
+    height: 15px;
+    background-color: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 5px auto;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background-color: #4CAF50;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    line-height: 15px;
+  }
+</style>
+
 <div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
+  <table style="margin-left: auto; margin-right: auto; text-align:center;">
     <tr>
-      <td align="center">
-        <img src="images/icono-profesor-tierno-sombra.png" height="80" alt="IES Enrique Tierno Galván"/><br>
+      <td>
+        <img src="imagenes/tierno.png" height="80" alt="IES Enrique Tierno Galván"/><br>
         <a href="https://site.educa.madrid.org/ies.tiernogalvan.madrid/" target="_blank">
           <strong>IES Enrique Tierno Galván</strong>
         </a><br>
         <strong>Grado Superior</strong> en Desarrollo de Aplicaciones Web<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+        <div class="progress-container">
+          <div class="progress-bar" style="width: 100%;">100%</div>
+        </div>
       </td>
-      <td align="center">
-        <img src="images/aulavirtual-1-1024x596.png" height="80" alt="IES Julio Verne"/><br>
+      <td>
+        <img src="imagenes/julioverne.png" height="80" alt="IES Julio Verne"/><br>
         <a href="https://site.educa.madrid.org/ies.julioverne.leganes/" target="_blank">
           <strong>IES Julio Verne</strong>
         </a><br>
         <strong>Grado Superior</strong> en Mantenimiento Electrónico y Robótica<br>
-        <img src="https://progress-bar.dev/100/" width="100" alt="progress-bar"/><br>
+        <div class="progress-container">
+          <div class="progress-bar" style="width: 100%;">100%</div>
+        </div>
+        <br>
         <strong>Grado Medio</strong> en Telecomunicaciones<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+        <div class="progress-container">
+          <div class="progress-bar" style="width: 100%;">100%</div>
+        </div>
       </td>
     </tr>
   </table>

@@ -66,9 +66,9 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
+<a href="https://github.com/alexcil97">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexcil97&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcil97&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
@@ -101,6 +101,6 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
 <br>
 
 ------
-**Credits :** [codediaz](https://github.com/codediaz)
+**Credits :** [alexcil97](https://github.com/alexcil97)
 
 **Last Edited on:** 06/04/2024

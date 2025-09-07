@@ -24,7 +24,7 @@ Durante mis estudios y en proyectos personales he trabajado con Java, Python, HT
   <br/>
 </div>
 
-<h2>📚 | Educación</h2>
+<h2>📚 | Education</h2>
 <p>
 Como desarrollador comprometido con el aprendizaje continuo, mi trayectoria académica refleja una formación técnica sólida y diversa. 
 He obtenido un Grado Superior en Desarrollo de Aplicaciones Web, un Grado Superior en Mantenimiento Electrónico y Robótica, 

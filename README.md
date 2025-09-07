@@ -24,8 +24,12 @@ Durante mis estudios y en proyectos personales he trabajado con Java, Python, HT
   <br/>
 </div>
 
-<h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
+<h2>📚 | Educación</h2>
+<p>
+Como desarrollador comprometido con el aprendizaje continuo, mi trayectoria académica refleja una formación técnica sólida y diversa. 
+He obtenido un Grado Superior en Desarrollo de Aplicaciones Web, un Grado Superior en Mantenimiento Electrónico y Robótica, 
+así como un Grado Medio en Telecomunicaciones.
+</p><br>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">

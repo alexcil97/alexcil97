@@ -91,11 +91,11 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,git"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i="/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linux,powershell,sublime,wordpress"/></td>
     </tr>
 </table>
 <br>

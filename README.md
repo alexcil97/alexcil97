@@ -34,7 +34,6 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
-      <!-- Grado Superior en Desarrollo de Aplicaciones Web -->
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/HTML5_logo_and_wordmark.svg" height="40" alt="DAW"/><br>
         <a href="https://www.ies-tiernogalvan.es/" target="_blank">
@@ -43,8 +42,6 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
         <strong>Grado Superior</strong> en Desarrollo de Aplicaciones Web<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
-
-      <!-- Grado Superior en Mantenimiento Electrónico y Robótica -->
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Arduino_circuit_logo.png" height="40" alt="Robótica"/><br>
         <a href="https://www.educa2.madrid.org/web/centro.ies.julioverne.leganes" target="_blank">
@@ -53,8 +50,6 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
         <strong>Grado Superior</strong> en Mantenimiento Electrónico y Robótica<br>
         <img src="https://progress-bar.dev/100/" width="100" alt="progress-bar"/>
       </td>
-
-      <!-- Grado Medio en Telecomunicaciones -->
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecom-icon.svg" height="40" alt="Telecom"/><br>
         <a href="https://www.educa2.madrid.org/web/centro.ies.julioverne.leganes" target="_blank">
@@ -66,6 +61,7 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
     </tr>
   </table>
 </div>
+
 
 
 

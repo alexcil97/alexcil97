@@ -39,7 +39,7 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
           <strong>IES Enrique Tierno Galván</strong>
         </a><br>
         <strong>Grado Superior</strong> en Desarrollo de Aplicaciones Web<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+        <img src="https://img.shields.io/badge/DAW-100%25-brightgreen" alt="progress"/>
       </td>
       <td align="center">
         <img src="images/aulavirtual-1-1024x596.png" height="80" alt="IES Julio Verne"/><br>
@@ -47,16 +47,13 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
           <strong>IES Julio Verne</strong>
         </a><br>
         <strong>Grado Superior</strong> en Mantenimiento Electrónico y Robótica<br>
-        <img src="https://progress-bar.dev/100/" width="100" alt="progress-bar"/><br>
+        <img src="https://img.shields.io/badge/Robótica-100%25-blue" alt="progress"/><br>
         <strong>Grado Medio</strong> en Telecomunicaciones<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+        <img src="https://img.shields.io/badge/Telecom-100%25-orange" alt="progress"/>
       </td>
     </tr>
   </table>
 </div>
-<img src="https://img.shields.io/badge/DAW-100%25-brightgreen" alt="progress"/>
-<img src="https://img.shields.io/badge/Robótica-100%25-blue" alt="progress"/>
-<img src="https://img.shields.io/badge/Telecom-100%25-orange" alt="progress"/>
 
 
 <h2>🔥| My contribution streak</h2>

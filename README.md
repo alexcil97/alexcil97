@@ -36,39 +36,37 @@ así como un Grado Medio en Telecomunicaciones asi como numerosos certificados.
     <tr>
       <!-- Grado Superior en Desarrollo de Aplicaciones Web -->
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/HTML5_logo_and_wordmark.svg" height="40" alt="DAW"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/HTML5_logo_and_wordmark.svg" height="40" alt="DAW"/><br>
         <a href="https://www.ies-tiernogalvan.es/" target="_blank">
-          <img src="https://www.ies-tiernogalvan.es/templates/ja_simpli/images/logo.png" width="90" alt="IES Enrique Tierno Galván"/>
+          <strong>IES Enrique Tierno Galván</strong>
         </a><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="España"/><br>
-        <strong>IES Enrique Tierno Galván</strong><br><strong>Grado Superior</strong> en Desarrollo de Aplicaciones Web<br>
+        <strong>Grado Superior</strong> en Desarrollo de Aplicaciones Web<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
 
       <!-- Grado Superior en Mantenimiento Electrónico y Robótica -->
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Arduino_circuit_logo.png" height="40" alt="Robótica"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Arduino_circuit_logo.png" height="40" alt="Robótica"/><br>
         <a href="https://www.educa2.madrid.org/web/centro.ies.julioverne.leganes" target="_blank">
-          <img src="https://www.educa2.madrid.org/o/ies.julioverne.leganes/logo" width="90" alt="IES Julio Verne"/>
+          <strong>IES Julio Verne</strong>
         </a><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="España"/><br>
-        <strong>IES Julio Verne</strong><br><strong>Grado Superior</strong> en Mantenimiento Electrónico y Robótica<br>
+        <strong>Grado Superior</strong> en Mantenimiento Electrónico y Robótica<br>
         <img src="https://progress-bar.dev/100/" width="100" alt="progress-bar"/>
       </td>
 
       <!-- Grado Medio en Telecomunicaciones -->
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecom-icon.svg" height="40" alt="Telecom"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecom-icon.svg" height="40" alt="Telecom"/><br>
         <a href="https://www.educa2.madrid.org/web/centro.ies.julioverne.leganes" target="_blank">
-          <img src="https://www.educa2.madrid.org/o/ies.julioverne.leganes/logo" width="90" alt="IES Julio Verne"/>
+          <strong>IES Julio Verne</strong>
         </a><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="España"/><br>
-        <strong>IES Julio Verne</strong><br><strong>Grado Medio</strong> en Telecomunicaciones<br>
+        <strong>Grado Medio</strong> en Telecomunicaciones<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <h2>🔥| My contribution streak</h2>
